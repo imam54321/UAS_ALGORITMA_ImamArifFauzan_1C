@@ -1,7 +1,7 @@
 class Buah :
     def __init__(self,nama,rasa,warna):
         self.nama=nama
-        self.rasa=buah
+        self.rasa= rasa
         self.warna=warna
     def setNama(self,name):
         self.nama= name
